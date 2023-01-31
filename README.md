@@ -1,22 +1,23 @@
+Website made for the client in PHP with libraries and frameworks, aiming at questions that he himself asked, namely:
 
-•	Link no slideshow;
-•	Menu com subpaginas;
-•	Barra no topo de contato;
-•	Slideshow areas de atuação;
-•	Botao ver todos as areas de atuação;
-•	Caixa de busca no topo;
-•	Alteracao do fundo redes sociais;
-•	Linkedin nos professores;
-•	Slideshow professores;
-•	Botao ver todos as professores;
-•	Adicionar imagem no artigo;
-•	Visualizar imagem e titulo, igual areas de atuação;
-•	No painel ter cadastro de clientes - imagem e nome;
-•	Slideshow depoimentos;
-•	Link contato do menu para footer;
-•	Alterar titulo contato para fale conosco;
-•	Formulario de contato vai para o email: Contato@institutodoconhecer.com.br
-•	No painel ter cadastro de cursos - nome, texto, imagem;
-•	No painel ter cadastro de galeria de imagens;
+• Link without slideshow;
 
+• Menu with subpages;
 
+• Bar on top of contact;
+• Slideshow of areas of activity;
+• Button to see all areas of activity;
+• Search box at the top;
+• Changing the background of social networks;
+• Linkedin in teachers;
+• Teacher slide show;
+• See all teachers button;
+• Add image to the article;
+• View image and title, equal areas of expertise;
+• In the panel, have a customer record - image and name;
+• Testimonials in slideshow;
+• Contact link from menu to footer;
+• Change contact title to contact us;
+• Contact form goes to the email: contato@institutodoconhecer.com.br
+• In the panel, register courses - name, text, image;
+• In the panel, register an image gallery;
