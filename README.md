@@ -20,7 +20,7 @@ Website made for the client in PHP with libraries and frameworks, aiming at ques
 
 • See all teachers button;
 
-• Add image to the article;
+• Adicionar image to the article;
 
 • View image and title, equal areas of expertise;
 
