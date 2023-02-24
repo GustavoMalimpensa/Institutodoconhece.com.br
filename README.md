@@ -34,6 +34,6 @@ Website made for the client in PHP with libraries and frameworks, aiming at ques
 
 • Contact form goes to the email: contato@institutodoconhecer.com.br
 
-• In the panel, register courses - name, text, image;
+• In the panel, register courses-name, text, image;
 
 • In the panel, register an image gallery.
